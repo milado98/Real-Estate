@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#form-section {
+    background: whitesmoke;
+}
+
+.name-row input, .subject-row input {
+   width: 49%;
+   border: none;
+}
+
+.form-body textarea {
+    width: 100%;
+    border: none;
+}
+
+.social-media-box i {
+    height: 80px;
+}

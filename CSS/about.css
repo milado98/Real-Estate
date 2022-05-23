@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#hero-section-about {
+    background-image: url(https://tunatheme.com/tf/html/quarter-preview/quarter/img/bg/23.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#count-section .left-count-main-about, #count-section .right-count-main {
+    width: 50%;
+    min-height: 80vh;
+}
+
+.left-count-main-about {
+    background: url(https://tunatheme.com/tf/html/quarter-preview/quarter/img/product-3/3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 376px) {
+    #count-section .left-count-main-about, #count-section .right-count-main {
+        width: 100%;
+    }
+}
+
+@media (max-width: 426px) {
+    #count-section .left-count-main-about, #count-section .right-count-main {
+        width: 100%;
+    }
+}
+
+@media (max-width: 769px) {
+    #count-section .left-count-main-about, #count-section .right-count-main {
+        width: 100%; 
+    }
+}
