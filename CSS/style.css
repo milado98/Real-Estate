@@ -106,6 +106,7 @@
 
     #count-section .left-count-main {
         margin-bottom: 40px;
+        min-height: 80vh;
     }
 
     #footer .apply {

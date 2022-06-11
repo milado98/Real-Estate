@@ -9,6 +9,8 @@
     min-height: 80vh;
 }
 
+
+
 .left-count-main-about {
     background: url(https://tunatheme.com/tf/html/quarter-preview/quarter/img/product-3/3.jpg);
     background-position: center;
@@ -31,5 +33,9 @@
 @media (max-width: 769px) {
     #count-section .left-count-main-about, #count-section .right-count-main {
         width: 100%; 
+    }
+
+    #count-section .left-count-main-about {
+        margin-bottom: 40px;
     }
 }

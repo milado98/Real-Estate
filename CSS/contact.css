@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #form-section {
     background: whitesmoke;
 }
@@ -14,4 +15,22 @@
 
 .social-media-box i {
     height: 80px;
+=======
+#form-section {
+    background: whitesmoke;
+}
+
+.name-row input, .subject-row input {
+   width: 49%;
+   border: none;
+}
+
+.form-body textarea {
+    width: 100%;
+    border: none;
+}
+
+.social-media-box i {
+    height: 80px;
+>>>>>>> 3782ba614da088628a1bfbd839f68a378a6433e5
 }
